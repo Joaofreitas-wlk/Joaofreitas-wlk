@@ -1,3 +1,7 @@
+<h3 align="left">Estudante de Ciências da Computação e Análise e Desenvolvimento de Sistemas, sempre em busca de novos conhecimentos e desafios na área de tecnologia. Com o intuito de se tornar um profissional completo e qualificado, capaz de contribuir ativamente para o desenvolvimento de soluções tecnológicas.</h3>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
